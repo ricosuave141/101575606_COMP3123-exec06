@@ -1,0 +1,25 @@
+{
+  "name": "101575606_comp3123-exec06",
+  "version": "1.0.0",
+  "description": "Week06 Exercise",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "expressJS",
+    "nodeJS",
+    "week06",
+    "API",
+    "mongoDB",
+    "REST",
+    "mongoose",
+    "notes"
+  ],
+  "author": "Aaron Balayo (101575606)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.1"
+  }
+}
